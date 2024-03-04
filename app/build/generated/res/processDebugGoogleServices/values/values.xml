@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">706778782894</string>
+    <string name="google_api_key" translatable="false">AIzaSyBhjJd5RcKSSOMsfP9CShKW1lJWWPonvqo</string>
+    <string name="google_app_id" translatable="false">1:706778782894:android:1a72a6626905e892aea13f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBhjJd5RcKSSOMsfP9CShKW1lJWWPonvqo</string>
+    <string name="google_storage_bucket" translatable="false">river-guard.appspot.com</string>
+    <string name="project_id" translatable="false">river-guard</string>
+</resources>

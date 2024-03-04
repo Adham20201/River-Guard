@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "com.leo.riverguard.app-merged_res-37:/layout_ultrasonic_info_layout.xml.flat",
+        "source": "com.leo.riverguard.app-main-39:/layout/ultrasonic_info_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\layout_activity_bluetooth_connection.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\layout\\activity_bluetooth_connection.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\layout_activity_voice.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\layout\\activity_voice.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.leo.riverguard.app-merged_res-37:/layout_activity_info_ultrasonic.xml.flat",
+        "source": "com.leo.riverguard.app-main-39:/layout/activity_info_ultrasonic.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\layout_shoulders_info_layout.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\layout\\shoulders_info_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\layout_eeg_info_layout.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\layout\\eeg_info_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.leo.riverguard.app-merged_res-37:/layout_activity_user_profile.xml.flat",
+        "source": "com.leo.riverguard.app-main-39:/layout/activity_user_profile.xml"
+    },
+    {
+        "merged": "com.leo.riverguard.app-merged_res-37:/layout_activity_info_idr.xml.flat",
+        "source": "com.leo.riverguard.app-main-39:/layout/activity_info_idr.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_ic_record.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\ic_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\font_secular_one.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\font\\secular_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_ic_basel_true.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\ic_basel_true.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\layout_device_info_layout.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\layout\\device_info_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_ic_user_profile.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\ic_user_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_blue_button_background.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\blue_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_card_background.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_back_icon.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\back_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_ic_logo_img.png.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\ic_logo_img.png"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\font_bungee.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\font\\bungee.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_ic_basel_graph.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\ic_basel_graph.xml"
+    },
+    {
+        "merged": "com.leo.riverguard.app-merged_res-37:/layout_idr_info_layout.xml.flat",
+        "source": "com.leo.riverguard.app-main-39:/layout/idr_info_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_logo_308.png.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\logo_308.png"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_man.png.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\man.png"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_account_icon.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\account_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_red_button_background.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\red_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\layout_activity_eeggraph.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\layout\\activity_eeggraph.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\anim_top_anim.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\anim\\top_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_red_buttt_background_ripple.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\red_buttt_background_ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_ic_basel_false.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\ic_basel_false.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_visuals.gif.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\visuals.gif"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_check_mark.png.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\check_mark.png"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_ic_eeg_graph.jpg.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\ic_eeg_graph.jpg"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_ic_idr.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\ic_idr.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_visual.gif.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\visual.gif"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_send_icon.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\send_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\raw_button_loading_white.json.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\raw\\button_loading_white.json"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\layout_activity_info_eeg.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\layout\\activity_info_eeg.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_blue_buttt_background_ripple.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\blue_buttt_background_ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_cap_19308.png.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\cap_19308.png"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_round_btn.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\round_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\layout_activity_info_shoulders.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\layout\\activity_info_shoulders.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\anim_bottom_anim.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\anim\\bottom_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_custom_ripple.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\custom_ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_ic_ultrasonic.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\ic_ultrasonic.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\layout_activity_user_profile.xml.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-merged_res-37:\\drawable_ic_logo.jpg.flat",
+        "source": "C:\\Users\\adham\\.gradle\\daemon\\8.0\\com.leo.riverguard.app-main-39:\\drawable\\ic_logo.jpg"
+    }
+]

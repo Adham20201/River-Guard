@@ -1,0 +1,6 @@
+com.leo.riverguard.test.app-core-1.5.0-0 C:\Users\adham\.gradle\caches\transforms-3\90c4522dc0a01c4256b31ca079d1a9a1\transformed\core-1.5.0\res
+com.leo.riverguard.test.app-annotation-experimental-1.3.0-1 C:\Users\adham\.gradle\caches\transforms-3\928fa13238c4b10448984e94b645bacb\transformed\annotation-experimental-1.3.0\res
+com.leo.riverguard.test.app-androidTest-2 H:\Android\RiverGuard\app\build\generated\res\resValues\androidTest\debug
+com.leo.riverguard.test.app-mergeDebugAndroidTestResources-3 H:\Android\RiverGuard\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.leo.riverguard.test.app-mergeDebugAndroidTestResources-4 H:\Android\RiverGuard\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.leo.riverguard.test.app-merged_res-5 H:\Android\RiverGuard\app\build\intermediates\merged_res\debugAndroidTest

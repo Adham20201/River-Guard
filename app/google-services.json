@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706778782894",
+    "project_id": "river-guard",
+    "storage_bucket": "river-guard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706778782894:android:1a72a6626905e892aea13f",
+        "android_client_info": {
+          "package_name": "com.leo.riverguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhjJd5RcKSSOMsfP9CShKW1lJWWPonvqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
