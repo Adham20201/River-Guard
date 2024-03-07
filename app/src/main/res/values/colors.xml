@@ -8,5 +8,6 @@
     <color name="gray_background">#f8f7f7</color>
 
     <color name="yellow"> #fece2f </color>
+    <color name="security">#D95F69</color>
 
 </resources>

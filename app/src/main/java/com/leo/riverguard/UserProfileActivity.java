@@ -27,8 +27,7 @@ import java.util.ArrayList;
 
 public class UserProfileActivity extends AppCompatActivity {
 
-
-
+    LinearLayout logout_btn;
     public static ConnectedThread connectedThread;
     private final static int MESSAGE_READ = 2; // used in bluetooth handler to identify message update
 
@@ -51,6 +50,8 @@ public class UserProfileActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.activity_user_profile);
+
+        logout_btn = findViewById(R.id.btn_logout);
 
         bumpStatus = false;
         goBumpStatus = false;
@@ -142,6 +143,13 @@ public class UserProfileActivity extends AppCompatActivity {
             }
         });
 
+        logout_btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mAuth.signOut();
+                startActivity(new Intent(UserProfileActivity.this, LoginActivity.class));
+            }
+        });
 
     }
 

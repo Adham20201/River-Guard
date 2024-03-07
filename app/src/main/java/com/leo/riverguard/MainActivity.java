@@ -13,16 +13,23 @@ import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.google.firebase.auth.FirebaseAuth;
+
 public class MainActivity extends AppCompatActivity {
 
     ImageView logoImg;
     TextView logoTxt;
     Animation topAnim, bottomAnim;
 
+    FirebaseAuth mAuth;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        mAuth = FirebaseAuth.getInstance();
+
         //Hooks
         logoImg = findViewById(R.id.logo_img);
         logoTxt = findViewById(R.id.logo_txt);
@@ -47,7 +54,16 @@ public class MainActivity extends AppCompatActivity {
                 pairs[1]=new Pair<View, String>(logoTxt,"logo_text");
                 //wrap the call in API level 21 or higher
                 ActivityOptions options = ActivityOptions.makeSceneTransitionAnimation(MainActivity.this, pairs);
-                startActivity(intent,options.toBundle());
+
+
+                if (mAuth.getCurrentUser() != null){
+                    startActivity(new Intent(MainActivity.this,BluetoothConnectionActivity.class));
+                }
+                else {
+                    startActivity(intent, options.toBundle());
+
+                }
+
                 finish();
             }
         },2000);
